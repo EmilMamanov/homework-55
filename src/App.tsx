@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import Ingredient from './components/Ingredient/Ingredient';
-
+import Burger from './components/Burger/Burger';
 
 import meatImage from './assets/meat.png';
 import cheeseImage from './assets/cheese.png';

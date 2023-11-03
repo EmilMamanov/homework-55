@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-
+import Ingredient from './components/Ingredient/Ingredient';
 
 
 import meatImage from './assets/meat.png';
